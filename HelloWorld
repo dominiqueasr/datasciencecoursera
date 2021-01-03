@@ -1,7 +1,0 @@
-echo "## This is a markdown file" >> HelloWorld.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/dominiqueasr/datasciencecoursera.git
-git push -u origin main
